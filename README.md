@@ -1,5 +1,5 @@
-### My Event 👍👍
-![png](https://github.com/Acttion101/Acttion101/blob/master/01.png?raw=true)
+### My Idol 👍👍
+![png](https://github.com/Acttion101/Acttion101/blob/master/02.jpg?raw=true)
 <a href="https://github.com/Acttion101/eatsomewhere-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Acttion101&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
 </a>
